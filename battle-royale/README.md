@@ -1,6 +1,4 @@
-# Support discord server: https://glizzers.xyz/discord
-
-# battle royale
+# Battle Royale
 
 This cheat only works in battle royale gamemode!
 
